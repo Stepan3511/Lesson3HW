@@ -41,7 +41,4 @@ public class Main {
             arr[n2] = rep;
             System.out.println("Result of replacement: " + Arrays.toString(arr));
         }
-
-
-
 }
