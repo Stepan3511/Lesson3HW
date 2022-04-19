@@ -29,6 +29,4 @@ public class Box<T extends Fruit> {
         }
         fruitList.clear();
     }
-
-
 }
